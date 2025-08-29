@@ -20,4 +20,4 @@ Unlike traditional authentication platforms, Protekt offers a **ready-to-run aut
 - **Backend Developers** → Verify tokens, manage sessions, and secure APIs effortlessly.  
 - **Product Managers** → Self-serve documentation to understand features and flows without relying on engineers.  
 
-👉 Ready to dive in? Head over to [Quick Start](./quickstart) to get running in less than 5 minutes.
+👉 Ready to dive in? Head over to Quick Start to get running in less than 5 minutes.
